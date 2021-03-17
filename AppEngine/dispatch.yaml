@@ -1,0 +1,5 @@
+dispatch:
+  - url: "www.prajwalkoirala.com/*"
+    service: default
+  - url: "prajwalkoirala.com/*"
+    service: default
