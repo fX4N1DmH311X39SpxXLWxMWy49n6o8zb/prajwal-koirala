@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Prajwal Koirala</h1>
-<h3 align="center">Obscurity as a means of protection does not work.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwal-koirala&label=Profile%20views&color=0e75b6&style=flat" alt="prajwal-koirala" /> </p>
 
