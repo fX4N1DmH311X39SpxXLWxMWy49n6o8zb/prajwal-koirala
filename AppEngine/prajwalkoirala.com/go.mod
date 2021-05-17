@@ -1,3 +1,3 @@
 module github.com/Prajwal-Koirala/prajwalkoirala-com
 
-go 1.15
+go 1.16
