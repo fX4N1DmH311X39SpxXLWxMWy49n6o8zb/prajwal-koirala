@@ -6,12 +6,16 @@ import (
 	"os"
 )
 
-var err error
+var (
+	err        error
+	filePath   = "www"
+	serverPort = ":8080"
+)
 
 func main() {
-	if folderExists("www") {
-		http.Handle("/", http.FileServer(http.Dir("www")))
-		err = http.ListenAndServe(":8080", nil)
+	if folderExists(filePath) {
+		http.Handle("/", http.FileServer(http.Dir(filePath)))
+		err = http.ListenAndServe(serverPort, nil)
 		handleError(err)
 	} else {
 		log.Println("Error: Failed to find www folder")
