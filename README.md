@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Go, Dart**
 
-- 👯 I’m looking to collaborate on [System-Manager](https://github.com/complexorganizations/system-manager)
+- 👯 I’m looking to collaborate on [wireguard-manager](https://github.com/complexorganizations/wireguard-manager)
 
 - 🤝 I’m looking for help with [OSINT](https://github.com/complexorganizations/OSINT)
 
