@@ -18,13 +18,13 @@ func main() {
 		err = http.ListenAndServe(serverPort, nil)
 		handleError(err)
 	} else {
-		log.Print("Error: Failed to find www folder")
+		log.Println("Error: The www folder could not be found.")
 	}
 }
 
 func handleError(err error) {
 	if err != nil {
-		log.Print(err)
+		log.Println(err)
 	}
 }
 
