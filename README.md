@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [ComplexOrganizations](https://github.com/complexorganizations)
 
-- 🌱 I’m currently learning **Go, Dart**
+- 🌱 I’m currently learning **Go, Dart, Rust**
 
 - 👯 I’m looking to collaborate on [wireguard-manager](https://github.com/complexorganizations/wireguard-manager)
 
