@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prajwal Koirala</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwal-koirala&label=Profile%20views&color=0e75b6&style=flat" alt="prajwal-koirala" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajwal-koirala" alt="prajwal-koirala" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/prajwal_k23" target="blank"><img src="https://img.shields.io/twitter/follow/prajwal_k23?logo=twitter&style=for-the-badge" alt="prajwal_k23" /></a> </p>
